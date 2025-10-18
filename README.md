@@ -32,12 +32,12 @@
 - **Files included:**  
   - `Beverage Sales Dashboard.pbix`  
   - `dashboard.png`  
-  - `sample_data/Power BI Dataset vF.xlsx` 
+  - `Power BI Dataset vF.xlsx` 
   - `README.md`
 
 ---
 
 ## How to view
-- **Power BI:** open `dashboard.pbix` in Power BI Desktop.  
-- If you cannot open `.pbix`, view the images in `screenshots/`.  
+- **Power BI:** open `Beverage Sales Dashboard.pbix` in Power BI Desktop.  
+- If you cannot open `.pbix`, view the images in `dashboard.png`.  
 
