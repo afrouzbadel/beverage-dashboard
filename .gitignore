@@ -1,0 +1,11 @@
+
+# Power BI cache files
+*.tmp
+*.bak
+*.cache
+*.pbix.backup
+
+# Folders to ignore
+__pycache__/
+.vscode/
+.env/
